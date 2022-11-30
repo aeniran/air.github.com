@@ -1,0 +1,123 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.ni{
+    background-image: url(image/headphones-african-american-woman-s-portrait-isolated-dark-studio-background-multicolored-neon-light-beautiful-female-model-concept-human-emotions-facial-expression-sales-ad-fashion.jpg);
+    width: 100%;
+    height: 90vh;
+    background-position: center;
+    background-size: cover;
+}
+img{
+    width: 9%;
+}
+h2{
+    color: white;
+    margin: 49px 50px;
+    padding: 40px 40px;
+}
+.in{
+    width: 50vh;
+    height: 90vh;
+    background-color: green;
+    display: flex;
+}
+.nn{
+    width: 50vh;
+    height: 70vh;
+    background-color: green;
+    display: flex;
+}
+.pp{
+    border: 2px wheat;
+    height: 50vh;
+    width: 30%;
+    background-color: rgb(255, 255, 255);
+    margin-left: 60%;
+    margin-top: -165px;
+    border-radius: 20px;
+}
+.po{
+    text-align: center;
+}
+.pe{
+    align-items: center;
+    justify-content: center;
+    margin-left: 40px;
+}
+.mtn{
+    background-color:white;
+    width: 100%;
+    height: 70vh;
+}
+.ll{
+    text-align: center;
+    padding-top: 50px;
+}
+.i{
+    border: 2ps solid black;
+    width: 30%;
+    height: 40vh;
+    background-color: white;
+    display: inline-block;
+}
+.u{
+    width: 40%;
+}
+.xx{
+    width: 100%;
+    height: 90vh;
+    background-color: #FAF5F5;
+    }
+.m{
+    border: 2px solid #F4F4F5;
+    width: 20%;
+    height: 40vh;
+    background-color: #F4F4F5;
+    margin-left: 30px;
+    display: inline-block;
+    padding-top: 20px;
+    border-radius: 20px;
+}
+.n{
+    border: 2px solid #F4F4F5;
+    width: 20%;
+    height: 40vh;
+    background-color:#F4F4F5;
+    margin-left: 30px;
+    display: inline-block;
+    border-radius: 20px;
+    
+}
+.a{
+    width: 50px;
+    color: white;
+}
+.b{
+    width: 100%;
+    height: 70vh;
+    bottom: #F4F4F5;
+    display: flex;
+}
+.h{
+    width: 50%;
+    height: 70vh;
+    background-color: red;
+    color: white;
+   
+}
+
+.C{
+    width: 50%;
+    height: 70vh;
+    background-color: blue;
+    display: inline-block;
+}
+
+.w{
+    width: 40%;
+    display: inline-block;
+}
